@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Pour Choices",
+      "live": "https://pour-choices-app.herokuapp.com/drinks/",
+      "git": "https://github.com/RosanneE/Pour_Choices",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Hues Your Own Adventure",
+      "live": "https://subtle-profiterole-48ae37.netlify.app/",
+      "git": "https://github.com/RosanneE/HuesAdventure",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
